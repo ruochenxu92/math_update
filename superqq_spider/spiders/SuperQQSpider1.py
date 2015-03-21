@@ -1,5 +1,4 @@
 __author__ = 'Xiaomin'
-__author__ = 'Xiaomin'
 
 from scrapy.spider import Spider
 from scrapy.utils.response import open_in_browser
@@ -14,12 +13,12 @@ from superqq_spider.utils import utils
 tool = utils()
 def getUrls():
     urls = []
-    urls += ['http://arxiv.org/list/cs/14?skip=0&show=16277']
+    urls += ['http://arxiv.org/list/cs/1501?show=1302', 'http://arxiv.org/list/cs/1502?show=1480', 'http://arxiv.org/list/cs/1503?show=1075']
     return urls
 
 class CS499Spider(Spider):
     hostname = 'http://arxiv.org'
-    name = 'xxu46'
+    name = 'xxu461'
     #allowed_domains = ['http://cs.illinois.edu']
     start_urls = getUrls()
 
