@@ -18,4 +18,6 @@ NEWSPIDER_MODULE = 'superqq_spider.spiders'
 ITEM_PIPELINES = {
     'superqq_spider.pipelines.JsonWriterPipeline': 2,
 }
-DOWNLOAD_DELAY = 10
+
+from random import randint
+DOWNLOAD_DELAY = randint(30, 90)
