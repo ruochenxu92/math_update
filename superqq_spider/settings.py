@@ -20,4 +20,13 @@ ITEM_PIPELINES = {
 }
 
 from random import randint
-DOWNLOAD_DELAY = 1
+DOWNLOAD_DELAY = randint(1, 120)
+
+#禁Cookie防ban
+COOKIES_ENABLED =False
+#使用变化的UserAgent防ban
+DOWNLOADER_MIDDLEWARES = {
+    'scrapy.contrib.downloadermiddleware.useragent.UserAgentMiddleware': None,
+    'superqq_spider.useragent.UserAgentPoolMiddleware': 400
+}
+CONCURRENCY_REQUESTS = 10
