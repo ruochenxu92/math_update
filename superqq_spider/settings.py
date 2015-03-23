@@ -20,4 +20,4 @@ ITEM_PIPELINES = {
 }
 
 from random import randint
-DOWNLOAD_DELAY = randint(30, 90)
+DOWNLOAD_DELAY = 1
