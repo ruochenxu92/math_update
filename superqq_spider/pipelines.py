@@ -11,8 +11,8 @@ import datetime
 
 class JsonWriterPipeline(object):
     def __init__(self):
-        now = datetime.datetime.now()
-        name =  '-'.join([str(now.year),str(now.month),str(now.day),str(now.hour), str(now.minute), str(now.second)])
+        # name = __file__ + str(datetime.datetime.now().second)
+        name = 'xxu46_dataset'
         self.file = open(name + '.json', 'wb')
         self.file.write('[')
 

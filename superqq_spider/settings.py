@@ -18,4 +18,4 @@ NEWSPIDER_MODULE = 'superqq_spider.spiders'
 ITEM_PIPELINES = {
     'superqq_spider.pipelines.JsonWriterPipeline': 2,
 }
-DOWNLOAD_DELAY = 4
+DOWNLOAD_DELAY = 10

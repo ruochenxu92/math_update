@@ -7,7 +7,6 @@
 
 
 from scrapy import Field, Item
-
 class Paper(Item):
     urllink = Field()
     pdflink = Field()
@@ -17,3 +16,4 @@ class Paper(Item):
     subjects = Field()
     abstract = Field()
     date = Field()
+    # ref = Field()
