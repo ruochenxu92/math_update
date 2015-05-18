@@ -16,9 +16,11 @@ _open_func_bak = open # Make a back up, just in case
 open = codecs.open
 import json
 import ijson
+
 def escape(str):
 	return str.encode('ascii',errors='ignore')
-json_file_path = home + '/superqq_spider/2015-3-20-23-22-45.json'
+
+json_file_path = home + '/superqq_spider/cs_update.json'
 json_file = open(json_file_path, encoding='utf-8')
 parser = ijson.parse(json_file)
 j = {}

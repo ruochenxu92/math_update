@@ -13,17 +13,15 @@ from superqq_spider.utils import utils
 tool = utils()
 def getUrls():
     urls = []
-    urls += ['http://arxiv.org/list/cs/10?skip=0&show=1000',
-'http://arxiv.org/list/cs/10?skip=1000&show=1000',
-'http://arxiv.org/list/cs/10?skip=2000&show=1000',
-'http://arxiv.org/list/cs/10?skip=3000&show=1000',
-'http://arxiv.org/list/cs/10?skip=4000&show=1000',
-'http://arxiv.org/list/cs/10?skip=5000&show=1000',]
+    urls += ['http://arxiv.org/list/math/1001?skip=0&show=1500',
+'http://arxiv.org/list/math/1001?skip=1500&show=1500',
+'http://arxiv.org/list/math/1002?skip=0&show=1500',
+'http://arxiv.org/list/math/1002?skip=1500&show=1500',]
     return reversed(urls)
 
 class CS499Spider(Spider):
     hostname = 'http://arxiv.org'
-    name = 'xxu46_1'
+    name = 'cs_update'
     #allowed_domains = ['http://cs.illinois.edu']
     start_urls = getUrls()
 
