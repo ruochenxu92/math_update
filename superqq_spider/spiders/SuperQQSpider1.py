@@ -49,7 +49,7 @@ def getUrls():
 
 class CS499Spider(Spider):
     hostname = 'http://arxiv.org'
-    name = 'cs_update'
+    name = 'math_update'
     #allowed_domains = ['http://cs.illinois.edu']
     start_urls = getUrls()
 
