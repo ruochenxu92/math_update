@@ -1,0 +1,580 @@
+{
+  "collection1": [
+    {
+      "math": {
+        "text": "new",
+        "href": "http://arxiv.org/list/math.AG/new"
+      }
+    },
+    {
+      "math": {
+        "text": "recent",
+        "href": "http://arxiv.org/list/math.AG/recent"
+      }
+    },
+    {
+      "math": {
+        "text": "current month",
+        "href": "http://arxiv.org/list/math.AG/current"
+      }
+    },
+    {
+      "math": {
+        "text": "new",
+        "href": "http://arxiv.org/list/math.AT/new"
+      }
+    },
+    {
+      "math": {
+        "text": "recent",
+        "href": "http://arxiv.org/list/math.AT/recent"
+      }
+    },
+    {
+      "math": {
+        "text": "current month",
+        "href": "http://arxiv.org/list/math.AT/current"
+      }
+    },
+    {
+      "math": {
+        "text": "new",
+        "href": "http://arxiv.org/list/math.AP/new"
+      }
+    },
+    {
+      "math": {
+        "text": "recent",
+        "href": "http://arxiv.org/list/math.AP/recent"
+      }
+    },
+    {
+      "math": {
+        "text": "current month",
+        "href": "http://arxiv.org/list/math.AP/current"
+      }
+    },
+    {
+      "math": {
+        "text": "new",
+        "href": "http://arxiv.org/list/math.CT/new"
+      }
+    },
+    {
+      "math": {
+        "text": "recent",
+        "href": "http://arxiv.org/list/math.CT/recent"
+      }
+    },
+    {
+      "math": {
+        "text": "current month",
+        "href": "http://arxiv.org/list/math.CT/current"
+      }
+    },
+    {
+      "math": {
+        "text": "new",
+        "href": "http://arxiv.org/list/math.CA/new"
+      }
+    },
+    {
+      "math": {
+        "text": "recent",
+        "href": "http://arxiv.org/list/math.CA/recent"
+      }
+    },
+    {
+      "math": {
+        "text": "current month",
+        "href": "http://arxiv.org/list/math.CA/current"
+      }
+    },
+    {
+      "math": {
+        "text": "new",
+        "href": "http://arxiv.org/list/math.CO/new"
+      }
+    },
+    {
+      "math": {
+        "text": "recent",
+        "href": "http://arxiv.org/list/math.CO/recent"
+      }
+    },
+    {
+      "math": {
+        "text": "current month",
+        "href": "http://arxiv.org/list/math.CO/current"
+      }
+    },
+    {
+      "math": {
+        "text": "new",
+        "href": "http://arxiv.org/list/math.AC/new"
+      }
+    },
+    {
+      "math": {
+        "text": "recent",
+        "href": "http://arxiv.org/list/math.AC/recent"
+      }
+    },
+    {
+      "math": {
+        "text": "current month",
+        "href": "http://arxiv.org/list/math.AC/current"
+      }
+    },
+    {
+      "math": {
+        "text": "new",
+        "href": "http://arxiv.org/list/math.CV/new"
+      }
+    },
+    {
+      "math": {
+        "text": "recent",
+        "href": "http://arxiv.org/list/math.CV/recent"
+      }
+    },
+    {
+      "math": {
+        "text": "current month",
+        "href": "http://arxiv.org/list/math.CV/current"
+      }
+    },
+    {
+      "math": {
+        "text": "new",
+        "href": "http://arxiv.org/list/math.DG/new"
+      }
+    },
+    {
+      "math": {
+        "text": "recent",
+        "href": "http://arxiv.org/list/math.DG/recent"
+      }
+    },
+    {
+      "math": {
+        "text": "current month",
+        "href": "http://arxiv.org/list/math.DG/current"
+      }
+    },
+    {
+      "math": {
+        "text": "new",
+        "href": "http://arxiv.org/list/math.DS/new"
+      }
+    },
+    {
+      "math": {
+        "text": "recent",
+        "href": "http://arxiv.org/list/math.DS/recent"
+      }
+    },
+    {
+      "math": {
+        "text": "current month",
+        "href": "http://arxiv.org/list/math.DS/current"
+      }
+    },
+    {
+      "math": {
+        "text": "new",
+        "href": "http://arxiv.org/list/math.FA/new"
+      }
+    },
+    {
+      "math": {
+        "text": "recent",
+        "href": "http://arxiv.org/list/math.FA/recent"
+      }
+    },
+    {
+      "math": {
+        "text": "current month",
+        "href": "http://arxiv.org/list/math.FA/current"
+      }
+    },
+    {
+      "math": {
+        "text": "new",
+        "href": "http://arxiv.org/list/math.GM/new"
+      }
+    },
+    {
+      "math": {
+        "text": "recent",
+        "href": "http://arxiv.org/list/math.GM/recent"
+      }
+    },
+    {
+      "math": {
+        "text": "current month",
+        "href": "http://arxiv.org/list/math.GM/current"
+      }
+    },
+    {
+      "math": {
+        "text": "new",
+        "href": "http://arxiv.org/list/math.GN/new"
+      }
+    },
+    {
+      "math": {
+        "text": "recent",
+        "href": "http://arxiv.org/list/math.GN/recent"
+      }
+    },
+    {
+      "math": {
+        "text": "current month",
+        "href": "http://arxiv.org/list/math.GN/current"
+      }
+    },
+    {
+      "math": {
+        "text": "new",
+        "href": "http://arxiv.org/list/math.GT/new"
+      }
+    },
+    {
+      "math": {
+        "text": "recent",
+        "href": "http://arxiv.org/list/math.GT/recent"
+      }
+    },
+    {
+      "math": {
+        "text": "current month",
+        "href": "http://arxiv.org/list/math.GT/current"
+      }
+    },
+    {
+      "math": {
+        "text": "new",
+        "href": "http://arxiv.org/list/math.GR/new"
+      }
+    },
+    {
+      "math": {
+        "text": "recent",
+        "href": "http://arxiv.org/list/math.GR/recent"
+      }
+    },
+    {
+      "math": {
+        "text": "current month",
+        "href": "http://arxiv.org/list/math.GR/current"
+      }
+    },
+    {
+      "math": {
+        "text": "new",
+        "href": "http://arxiv.org/list/math.HO/new"
+      }
+    },
+    {
+      "math": {
+        "text": "recent",
+        "href": "http://arxiv.org/list/math.HO/recent"
+      }
+    },
+    {
+      "math": {
+        "text": "current month",
+        "href": "http://arxiv.org/list/math.HO/current"
+      }
+    },
+    {
+      "math": {
+        "text": "new",
+        "href": "http://arxiv.org/list/math.IT/new"
+      }
+    },
+    {
+      "math": {
+        "text": "recent",
+        "href": "http://arxiv.org/list/math.IT/recent"
+      }
+    },
+    {
+      "math": {
+        "text": "current month",
+        "href": "http://arxiv.org/list/math.IT/current"
+      }
+    },
+    {
+      "math": {
+        "text": "new",
+        "href": "http://arxiv.org/list/math.KT/new"
+      }
+    },
+    {
+      "math": {
+        "text": "recent",
+        "href": "http://arxiv.org/list/math.KT/recent"
+      }
+    },
+    {
+      "math": {
+        "text": "current month",
+        "href": "http://arxiv.org/list/math.KT/current"
+      }
+    },
+    {
+      "math": {
+        "text": "new",
+        "href": "http://arxiv.org/list/math.LO/new"
+      }
+    },
+    {
+      "math": {
+        "text": "recent",
+        "href": "http://arxiv.org/list/math.LO/recent"
+      }
+    },
+    {
+      "math": {
+        "text": "current month",
+        "href": "http://arxiv.org/list/math.LO/current"
+      }
+    },
+    {
+      "math": {
+        "text": "new",
+        "href": "http://arxiv.org/list/math.MP/new"
+      }
+    },
+    {
+      "math": {
+        "text": "recent",
+        "href": "http://arxiv.org/list/math.MP/recent"
+      }
+    },
+    {
+      "math": {
+        "text": "current month",
+        "href": "http://arxiv.org/list/math.MP/current"
+      }
+    },
+    {
+      "math": {
+        "text": "new",
+        "href": "http://arxiv.org/list/math.MG/new"
+      }
+    },
+    {
+      "math": {
+        "text": "recent",
+        "href": "http://arxiv.org/list/math.MG/recent"
+      }
+    },
+    {
+      "math": {
+        "text": "current month",
+        "href": "http://arxiv.org/list/math.MG/current"
+      }
+    },
+    {
+      "math": {
+        "text": "new",
+        "href": "http://arxiv.org/list/math.NT/new"
+      }
+    },
+    {
+      "math": {
+        "text": "recent",
+        "href": "http://arxiv.org/list/math.NT/recent"
+      }
+    },
+    {
+      "math": {
+        "text": "current month",
+        "href": "http://arxiv.org/list/math.NT/current"
+      }
+    },
+    {
+      "math": {
+        "text": "new",
+        "href": "http://arxiv.org/list/math.NA/new"
+      }
+    },
+    {
+      "math": {
+        "text": "recent",
+        "href": "http://arxiv.org/list/math.NA/recent"
+      }
+    },
+    {
+      "math": {
+        "text": "current month",
+        "href": "http://arxiv.org/list/math.NA/current"
+      }
+    },
+    {
+      "math": {
+        "text": "new",
+        "href": "http://arxiv.org/list/math.OA/new"
+      }
+    },
+    {
+      "math": {
+        "text": "recent",
+        "href": "http://arxiv.org/list/math.OA/recent"
+      }
+    },
+    {
+      "math": {
+        "text": "current month",
+        "href": "http://arxiv.org/list/math.OA/current"
+      }
+    },
+    {
+      "math": {
+        "text": "new",
+        "href": "http://arxiv.org/list/math.OC/new"
+      }
+    },
+    {
+      "math": {
+        "text": "recent",
+        "href": "http://arxiv.org/list/math.OC/recent"
+      }
+    },
+    {
+      "math": {
+        "text": "current month",
+        "href": "http://arxiv.org/list/math.OC/current"
+      }
+    },
+    {
+      "math": {
+        "text": "new",
+        "href": "http://arxiv.org/list/math.PR/new"
+      }
+    },
+    {
+      "math": {
+        "text": "recent",
+        "href": "http://arxiv.org/list/math.PR/recent"
+      }
+    },
+    {
+      "math": {
+        "text": "current month",
+        "href": "http://arxiv.org/list/math.PR/current"
+      }
+    },
+    {
+      "math": {
+        "text": "new",
+        "href": "http://arxiv.org/list/math.QA/new"
+      }
+    },
+    {
+      "math": {
+        "text": "recent",
+        "href": "http://arxiv.org/list/math.QA/recent"
+      }
+    },
+    {
+      "math": {
+        "text": "current month",
+        "href": "http://arxiv.org/list/math.QA/current"
+      }
+    },
+    {
+      "math": {
+        "text": "new",
+        "href": "http://arxiv.org/list/math.RT/new"
+      }
+    },
+    {
+      "math": {
+        "text": "recent",
+        "href": "http://arxiv.org/list/math.RT/recent"
+      }
+    },
+    {
+      "math": {
+        "text": "current month",
+        "href": "http://arxiv.org/list/math.RT/current"
+      }
+    },
+    {
+      "math": {
+        "text": "new",
+        "href": "http://arxiv.org/list/math.RA/new"
+      }
+    },
+    {
+      "math": {
+        "text": "recent",
+        "href": "http://arxiv.org/list/math.RA/recent"
+      }
+    },
+    {
+      "math": {
+        "text": "current month",
+        "href": "http://arxiv.org/list/math.RA/current"
+      }
+    },
+    {
+      "math": {
+        "text": "new",
+        "href": "http://arxiv.org/list/math.SP/new"
+      }
+    },
+    {
+      "math": {
+        "text": "recent",
+        "href": "http://arxiv.org/list/math.SP/recent"
+      }
+    },
+    {
+      "math": {
+        "text": "current month",
+        "href": "http://arxiv.org/list/math.SP/current"
+      }
+    },
+    {
+      "math": {
+        "text": "new",
+        "href": "http://arxiv.org/list/math.ST/new"
+      }
+    },
+    {
+      "math": {
+        "text": "recent",
+        "href": "http://arxiv.org/list/math.ST/recent"
+      }
+    },
+    {
+      "math": {
+        "text": "current month",
+        "href": "http://arxiv.org/list/math.ST/current"
+      }
+    },
+    {
+      "math": {
+        "text": "new",
+        "href": "http://arxiv.org/list/math.SG/new"
+      }
+    },
+    {
+      "math": {
+        "text": "recent",
+        "href": "http://arxiv.org/list/math.SG/recent"
+      }
+    },
+    {
+      "math": {
+        "text": "current month",
+        "href": "http://arxiv.org/list/math.SG/current"
+      }
+    }
+  ]
+}

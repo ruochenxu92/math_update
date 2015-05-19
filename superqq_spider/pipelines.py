@@ -11,7 +11,7 @@ import datetime
 
 class JsonWriterPipeline(object):
     def __init__(self):
-        self.file = open('cs_update.json', 'wb')
+        self.file = open('math_update.json', 'wb')
         self.file.write('[')
 
     def process_item(self, item, spider):

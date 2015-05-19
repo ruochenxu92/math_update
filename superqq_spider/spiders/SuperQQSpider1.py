@@ -13,10 +13,38 @@ from superqq_spider.utils import utils
 tool = utils()
 def getUrls():
     urls = []
-    urls += ['http://arxiv.org/list/math/1001?skip=0&show=1500',
-'http://arxiv.org/list/math/1001?skip=1500&show=1500',
-'http://arxiv.org/list/math/1002?skip=0&show=1500',
-'http://arxiv.org/list/math/1002?skip=1500&show=1500',]
+    urls += ['http://arxiv.org/list/math.AG/new',
+'http://arxiv.org/list/math.AT/new',
+'http://arxiv.org/list/math.AP/new',
+'http://arxiv.org/list/math.CT/new',
+'http://arxiv.org/list/math.CA/new',
+'http://arxiv.org/list/math.CO/new',
+'http://arxiv.org/list/math.AC/new',
+'http://arxiv.org/list/math.CV/new',
+'http://arxiv.org/list/math.DG/new',
+'http://arxiv.org/list/math.DS/new',
+'http://arxiv.org/list/math.FA/new',
+'http://arxiv.org/list/math.GM/new',
+'http://arxiv.org/list/math.GN/new',
+'http://arxiv.org/list/math.GT/new',
+'http://arxiv.org/list/math.GR/new',
+'http://arxiv.org/list/math.HO/new',
+'http://arxiv.org/list/math.IT/new',
+'http://arxiv.org/list/math.KT/new',
+'http://arxiv.org/list/math.LO/new',
+'http://arxiv.org/list/math.MP/new',
+'http://arxiv.org/list/math.MG/new',
+'http://arxiv.org/list/math.NT/new',
+'http://arxiv.org/list/math.NA/new',
+'http://arxiv.org/list/math.OA/new',
+'http://arxiv.org/list/math.OC/new',
+'http://arxiv.org/list/math.PR/new',
+'http://arxiv.org/list/math.QA/new',
+'http://arxiv.org/list/math.RT/new',
+'http://arxiv.org/list/math.RA/new',
+'http://arxiv.org/list/math.SP/new',
+'http://arxiv.org/list/math.ST/new',
+'http://arxiv.org/list/math.SG/new',]
     return reversed(urls)
 
 class CS499Spider(Spider):
